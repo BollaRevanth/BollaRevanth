@@ -26,7 +26,7 @@
 
 ###
 
-<h5 align="left">I'm currently pursuing Computer Science and Engineering at SVS Group of Institutuons,Hanamkonda. I'm looking for job opportunities in Software development role with strong foundation in MERN stack.<br><br>I’m passionate about using technology to solve real-world problems 🌍 and eager to learn and grow in the tech industry. With solid problem-solving skills 🧩 and a drive to continuously improve, I am excited to collaborate with like-minded professionals to make a positive impact 🤝.<br><br>In my free time, i dwell myself in learning and developing my skills to keep on improving,I love reading books and I also enjoy watching movies 🎥 and series 📺 for entertainment. I also spend time contemplating the mysteries of the universe ✨ and pondering questions about our cosmos and existence 🌌.</h5>
+<p align="left">I'm currently pursuing Computer Science and Engineering at SVS Group of Institutuons,Hanamkonda. I'm looking for job opportunities in Software development role with strong foundation in MERN stack.<br><br>I’m passionate about using technology to solve real-world problems 🌍 and eager to learn and grow in the tech industry. With solid problem-solving skills 🧩 and a drive to continuously improve, I am excited to collaborate with like-minded professionals to make a positive impact 🤝.<br><br>In my free time, i dwell myself in learning and developing my skills to keep on improving,I love reading books and I also enjoy watching movies 🎥 and series 📺 for entertainment. I also spend time contemplating the mysteries of the universe ✨ and pondering questions about our cosmos and existence 🌌.</p>
 
 ###
 
